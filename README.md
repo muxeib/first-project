@@ -12,6 +12,6 @@
         text-shadow:0px 0 10px wh}
     
 </style>
-Author: Muxeib
+Author: Muxeib(shah)
 
 
